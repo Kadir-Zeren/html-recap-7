@@ -1,5 +1,6 @@
 html {
   height: 100%;
+  font-size: 30px;
 }
 body {
   background-color: #bebe;
@@ -50,6 +51,14 @@ p.percent {
 .div6 {
   background-color: yellowgreen;
   color: white;
-  font-size: 0.5em;
-  width: 150px;
+  font-size: 3em;
+}
+.div7 {
+  font-size: 1rem;
+}
+.div8 {
+  font-size: 2rem;
+}
+.div9 {
+  font-size: 3rem;
 }
