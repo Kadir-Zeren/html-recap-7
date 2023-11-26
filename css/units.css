@@ -36,3 +36,20 @@ p.percent {
   width: 90vw;
   height: 10vh;
 }
+.div4 {
+  background-color: indigo;
+  color: white;
+  font-size: 1em;
+  width: 150px;
+}
+.div5 {
+  background-color: lightblue;
+  color: white;
+  font-size: 2em;
+}
+.div6 {
+  background-color: yellowgreen;
+  color: white;
+  font-size: 0.5em;
+  width: 150px;
+}
